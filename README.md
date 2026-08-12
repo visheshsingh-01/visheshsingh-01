@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+  <img width="1200" height="675" alt="github profile image" src="https://github.com/user-attachments/assets/f9b9b156-ca78-4fc6-8718-693e612a7e5a" />
+
+
+
 </p>
 
 <h1 align="center">Hi 👋, Imma Vishesh</h1>

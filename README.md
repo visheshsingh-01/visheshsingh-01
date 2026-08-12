@@ -20,7 +20,8 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 ##  <h2 align="center">🚀 About Me </h2>
 
-<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+
+
 
 **Vishesh**, Here  — a final-year Electronics and Communication Engineering student focused on backend development.
 
